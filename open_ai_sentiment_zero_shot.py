@@ -3,16 +3,6 @@ import openai
 
 openai.api_key = "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"
 
-# GPT-3
-# response = openai.Completion.create(
-#     model = "text-davinci-003",
-#     prompt="Write an essay:\n\n Hindi is an important language.",
-#     temperature=0,
-#     max_tokens=1000,
-#     top_p=1.0,
-#     frequency_penalty=0.0,
-#     presence_penalty=0.0
-# )
 
 # print(response)
 
